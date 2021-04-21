@@ -1,5 +1,10 @@
 # covid
 
+Versiones:
+- Vue 2
+- chart.js@2.9.3
+- vue-chartjs@3.5.0
+
 ## Project setup
 ```
 npm install
