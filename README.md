@@ -1,9 +1,13 @@
 # covid
 
+Link (toman algunos segundos en cargar las gráficas): https://trusting-varahamihira-6b628a.netlify.app/
+
 Versiones:
+```
 - Vue 2
 - chart.js@2.9.3
 - vue-chartjs@3.5.0
+```
 
 ## Project setup
 ```
